@@ -1,5 +1,5 @@
 streamlit
 matplotlib
-cv2
+opencv-python
 easyocr
 pytorch
